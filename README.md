@@ -1,10 +1,17 @@
+"Audio Signal Processing for Music Applications" is a MOOC on Coursera.
+
+About the Course
+
+"In this course you will learn about audio signal processing methodologies that are specific for music and of use in real applications. We focus on the spectral processing techniques of relevance for the description and transformation of sounds, developing the basic theoretical and practical knowledge with which to analyze, synthesize, transform and describe audio signals in the context of music applications.
+
+The course is based on open software and content. The demonstrations and programming exercises are done using Python under Ubuntu, and the references and materials for the course come from open online repositories. We are also distributing with open licenses the software and materials developed for the course."
+
+** My work from this course is in the folder "workspace" **
 
 ![ASPMA_completion](https://github.com/Amphicheiras/Audio-Signal-Processing-for-Music-Applications/blob/master/ASPMA_completion.png?raw=true)
 
 sms-tools
 ========= 
-
-** My course work is in folder workspace **
 
 Sound analysis/synthesis tools for music applications written in python (with a bit of C) plus complementary teaching materials.
 
