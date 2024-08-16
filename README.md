@@ -8,6 +8,8 @@ The course is based on open software and content. The demonstrations and program
 
 ** My work from this course is in the folder "workspace" **
 
+(The course did not provide a completion certificate)
+
 ![ASPMA_completion](https://github.com/Amphicheiras/Audio-Signal-Processing-for-Music-Applications/blob/master/ASPMA_completion.png?raw=true)
 
 sms-tools
