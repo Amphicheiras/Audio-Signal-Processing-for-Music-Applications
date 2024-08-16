@@ -1,3 +1,6 @@
+
+![ASPMA_completion](https://github.com/Amphicheiras/Audio-Signal-Processing-for-Music-Applications/blob/master/ASPMA_completion.png?raw=true)
+
 sms-tools
 ========= 
 
